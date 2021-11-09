@@ -1,0 +1,24 @@
+﻿body {
+    background-color: #7A7A7A;
+    font-family: "Roboto", sans-serif;
+}
+#main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.card {
+    background-color: rgba(131, 134, 151, 0.801);
+    width: 395px;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 25px;
+}
+.Indice {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 30px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #d1d1d1;
+}
